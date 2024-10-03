@@ -12,7 +12,7 @@ main:
     url: /teaching/    
 
   - title: "CV"
-    url: 'http://hamidhabibi.com/files/Job_Market_Paper.pdf'
+    url: /cv/
     
   - title: "Resume"
     url: /markdown/
