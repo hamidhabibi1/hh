@@ -19,7 +19,7 @@ If you have any questions or comments, please contact me at [hhabibi1@ucsc.edu](
 
 ## References
 
-1. Carlos Dobkin (Dissertaion Advisor, UC Santa Cruz)
+1. Carlos Dobkin (Dissertation Advisor, UC Santa Cruz)
 
 2. Laura Giuliano (UC Santa Cruz)
 
