@@ -1,16 +1,17 @@
 ---
 layout: archive
-title: "Teaching"
+title: ""
 permalink: /teaching/
 author_profile: true
 ---
 
----
-
-## **Primary Instructor**
+<div style="text-align: center;">
+  <h1><strong>Primary Instructor</strong></h1>
+</div>
 
 
 **Econ 104: Is there Truth in Numbers? The Role of Statistics in Economics (Causal Inference)**
+
 University of California, Santa Cruz  
 
 ## Course Description
@@ -21,10 +22,9 @@ This is the main upper-division course in Causal Inference. In this course, stud
 
 Spring 2024, Summer 2023, and Summer 2022  
 
- <a href="https://dx.doi.org/10.2139/ssrn.3800592" style="background-color: blue; color: white; padding: 10px 15px; text-decoration: none; border-radius: 5px;">Course Syllabus </a>
 
- 
- <a href="https://dx.doi.org/10.2139/ssrn.3800592" style="background-color: blue; color: white; padding: 10px 15px; text-decoration: none; border-radius: 5px;">Student Evaluations </a>
+
+ <a href="https://dx.doi.org/10.2139/ssrn.3800592" style="background-color: blue; color: white; padding: 10px 15px; text-decoration: none; border-radius: 5px;">Course Syllabus </a>  <a href="https://dx.doi.org/10.2139/ssrn.3800592" style="background-color: blue; color: white; padding: 10px 15px; text-decoration: none; border-radius: 5px;">Student Evaluations </a>
 
 ---
 
