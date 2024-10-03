@@ -1,6 +1,10 @@
 ---
+permalink: /cv/
 title: "CV"
-permalink: /cv.md
-paperurl: 'http://hamidhabibi.com/files/CV_Academic.pdf'
+author_profile: true
+redirect_from: 
+  - /cv/
+  - /cv.html
 ---
 
+Download[http://hamidhabibi.com/files/CV_Academic.pdf]
