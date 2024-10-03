@@ -7,12 +7,12 @@ author_profile: true
 
 
 <div style="text-align: center;">
-  <h1><strong>Teaching Pilosophy</strong></h1>
+  <h1><strong>Teaching Philosophy</strong></h1>
 </div>
 
 ---
 
-I strongly believe teaching should inspire curiosity and critical thinking, not just transfer knowledge. I aim to create a dynamic environment where students actively engage with economic concepts through a blend of lectures, discussions and practical applications. Grounded in the Teacher-Scholar Model, my teaching integrates research to foster continuous learning and innovation. Economics is inherently abstract, so simplifying complex issues is vital for effective teaching. I bring passion to the subject by posing relevant questions and incorporating real-world scenarios that resonate with students’ experiences. This not only deepens engagement but also improves learning outcomes by helping students connect theory to practice and develop critical analytical skills.
+I strongly believe teaching should inspire curiosity and critical thinking, not just transfer knowledge. I aim to create a dynamic environment where students actively engage with economic concepts through lectures, discussions, and practical applications. Grounded in the Teacher-Scholar Model, my teaching integrates research to foster continuous learning and innovation. Economics is inherently abstract, so simplifying complex issues is vital for effective teaching. I bring passion to the subject by posing relevant questions and incorporating real-world scenarios that resonate with students’ experiences. This not only deepens engagement but also improves learning outcomes by helping students connect theory to practice and develop critical analytical skills.
 
 <p style="margin-top: 20px;">
   <a href="http://hamidhabibi.com/files/Job_Market_Paper.pdf" style="background-color: blue; color: white; padding: 10px 15px; text-decoration: none; border-radius: 5px;">Download Teaching Statement</a>
@@ -29,6 +29,7 @@ I strongly believe teaching should inspire curiosity and critical thinking, not 
 ## Primary Instructor
 
 **Econ 104: Is there Truth in Numbers? The Role of Statistics in Economics (Causal Inference)**
+
 University of California, Santa Cruz  
 
 ## Course Description
@@ -39,13 +40,12 @@ This is the main upper-division course in Causal Inference. In this course, stud
 
 Spring 2024, Summer 2023, and Summer 2022  
 
-## Syllabus and Student Evaluations
 
-<p style="margin-top: 20px;">
+<p style="margin-top: 50px;">
   <a href="http://hamidhabibi.com/files/Job_Market_Paper.pdf" style="background-color: blue; color: white; padding: 10px 15px; text-decoration: none; border-radius: 5px;">Course Syllabus</a>
 </p>
  
-<p style="margin-top: 20px;">
+<p style="margin-top: 50px;">
   <a href="http://hamidhabibi.com/files/Job_Market_Paper.pdf" style="background-color: blue; color: white; padding: 10px 15px; text-decoration: none; border-radius: 5px;">Student Evaluations</a>
 </p>
 
