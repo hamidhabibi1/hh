@@ -5,7 +5,9 @@ permalink: /publications/
 author_profile: true
 ---
 
-# <p style="text-align: center;"><strong>Job Market Paper</strong></p>
+<div style="text-align: center;">
+  <h1><strong>Job Market Paper</strong></h1>
+</div>
 
 ---
 
@@ -23,7 +25,9 @@ The impact of direct-to-physician marketing and its regulations on physicians' p
 
 ---
 
-# <p style="text-align: center;"><strong>Publications</strong></p>
+<div style="text-align: center;">
+  <h1><strong>Publications</strong></h1>
+</div>
 
 ---
 
@@ -62,7 +66,9 @@ The Art of Discrete and Applied Mathematics, April 2024.
 
 ---
 
-# <p style="text-align: center;"><strong>Research in Progress</strong></p>
+<div style="text-align: center;">
+  <h1><strong>Research in Progress</strong></h1>
+</div>
 
 ---
 
