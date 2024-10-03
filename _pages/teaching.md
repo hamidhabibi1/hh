@@ -61,11 +61,11 @@ Throughout my academic career, I had the opportunity to serve as a teaching assi
 * Introductory and Intermediate Microeconomics
 * Applied Econometrics
 * Security Markets and Financial Institutions
-* Economic Rhetrocic
+* Economic Rhetoric
 * Advanced Real Analysis
 
 <p style="margin-top: 40px;">
-  <a href="https://dx.doi.org/10.2139/ssrn.3800592" style="background-color: blue; color: white; padding: 10px 15px; text-decoration: none; border-radius: 5px;">Selected Student Evaluations </a>
+  <a href="http://hamidhabibi.com/files/selected_TA.pdf" style="background-color: blue; color: white; padding: 10px 15px; text-decoration: none; border-radius: 5px;">Selected Student Evaluations </a>
 </p>
 
 
