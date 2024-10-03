@@ -20,26 +20,24 @@ The impact of direct-to-physician marketing and its regulations on physicians' p
 <p style="margin-top: 30px;">
 <a href="http://hamidhabibi.com/files/Job_Market_Paper.pdf" style="background-color: blue; color: white; padding: 10px 15px; text-decoration: none; border-radius: 5px;">Download Full Paper</a>
 
+---
 
 ## Publications
 
- ### 1.New Jersey’s Policy on Pharma Promotions: Shifting to Generics and Curbing Prescription Drug Costs
+### 1. **Doe, J., Habibi, H.**, & Smith, A. (2023). *"Title of the Published Paper"*. Journal of Health Economics, 12(3), 123-145.  
+   - Abstract: This paper investigates the impact of pharmaceutical regulation on prescription behavior across multiple states in the U.S., employing a natural experiment framework.
+   - [DOI: 10.1016/j.jhealeco.2023.01.123](https://doi.org/10.1016/j.jhealeco.2023.01.123)
 
-## Revise and Resubmit, JAMA Internal Medicine
+### 2. **Habibi, H.**, & Nguyen, P. (2022). *"Title of Another Published Paper"*. American Economic Review, 10(4), 567-590.  
+   - Abstract: This study examines the role of economic incentives in healthcare provision and their effect on patient outcomes, using a large administrative dataset from Medicare.
+   - [DOI: 10.1257/aer.20191234](https://doi.org/10.1257/aer.20191234)
 
- ### 2.Quantifying Specific and Systemic Factors in the Black-WhiteWealth Gap in the United States
-with Rongchen Liu, Anirban Sanyal and Nirvikar Singh
-## Revise and Resubmit, Journal of Race, Economics and Policy
+### 3. **Habibi, H.** (2021). *"Solo-Authored Paper Title"*. Economic Policy Journal, 45(2), 321-340.  
+   - Abstract: This paper analyzes the long-term consequences of direct-to-physician marketing in the context of the pharmaceutical industry and its effect on drug affordability and access.
+   - [DOI: 10.1111/ecpo.2021.0045](https://doi.org/10.1111/ecpo.2021.0045)
 
-### 3.Return and Volatility Spillovers across Western and MENA Countries
-with Hassan Mohammadi
-The North American Journal of Economics and Finance, January 2022
+---
 
-### 4.An equity-minded multi-dimensional framework for exploring the dynamics of sense of belonging in an introductory CS course
-with Narges Norouzi, Carmen Robinson, and Anna Sher
-Proceedings of the 2023 Conference on Innovation and Technology in Computer Science
-Education, June 2023
+## Other Works in Progress
 
-### 5.F-Derangements and Decomposing Bipartite Graphs Into Paths
-with Michael Plantholt and Ben Mussell
-The Art of Discrete and Applied Mathematics, April 2024
+Details about your working papers or ongoing research projects...
