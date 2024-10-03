@@ -5,13 +5,28 @@ permalink: /teaching/
 author_profile: true
 ---
 
+
 <div style="text-align: center;">
-  <h1><strong>Primary Instructor</strong></h1>
+  <h1><strong>Teaching Pilosophy</strong></h1>
 </div>
 
+---
+
+I strongly believe teaching should inspire curiosity and critical thinking, not just transfer knowledge. I aim to create a dynamic environment where students actively engage with economic concepts through a blend of lectures, discussions and practical applications. Grounded in the Teacher-Scholar Model, my teaching integrates research to foster continuous learning and innovation. Economics is inherently abstract, so simplifying complex issues is vital for effective teaching. I bring passion to the subject by posing relevant questions and incorporating real-world scenarios that resonate with students’ experiences. This not only deepens engagement but also improves learning outcomes by helping students connect theory to practice and develop critical analytical skills.
+
+<a href="https://dx.doi.org/10.2139/ssrn.3800592" style="background-color: blue; color: white; padding: 10px 15px; text-decoration: none; border-radius: 5px;">Download Teaching Statement</a>
+
+---
+
+<div style="text-align: center;">
+  <h1><strong>Teaching Experience</strong></h1>
+</div>
+
+---
+
+## Primary Instructor
 
 **Econ 104: Is there Truth in Numbers? The Role of Statistics in Economics (Causal Inference)**
-
 University of California, Santa Cruz  
 
 ## Course Description
@@ -22,19 +37,38 @@ This is the main upper-division course in Causal Inference. In this course, stud
 
 Spring 2024, Summer 2023, and Summer 2022  
 
+## Syllabus and Student Evaluations
 
-
- <a href="https://dx.doi.org/10.2139/ssrn.3800592" style="background-color: blue; color: white; padding: 10px 15px; text-decoration: none; border-radius: 5px;">Course Syllabus </a>  <a href="https://dx.doi.org/10.2139/ssrn.3800592" style="background-color: blue; color: white; padding: 10px 15px; text-decoration: none; border-radius: 5px;">Student Evaluations </a>
+ <a href="https://dx.doi.org/10.2139/ssrn.3800592" style="background-color: blue; color: white; padding: 10px 15px; text-decoration: none; border-radius: 5px;">Course Syllabus </a>  
+ 
+ 
+ <a href="https://dx.doi.org/10.2139/ssrn.3800592" style="background-color: blue; color: white; padding: 10px 15px; text-decoration: none; border-radius: 5px;">Student Evaluations </a>
 
 ---
 
-### Teaching Assistant**
+## Teaching Assistant
 
-**Econ 305: Advanced Microeconomic Theory**  
-_January 2023 - June 2023_  
-University of California, Santa Cruz  
-Brief description of course content and teaching methodology.  
-[Course Syllabus (PDF)](link_to_syllabus)
+During my academic career, I served as a teaching assistant for various courses. 
+
+<a href="https://dx.doi.org/10.2139/ssrn.3800592" style="background-color: blue; color: white; padding: 10px 15px; text-decoration: none; border-radius: 5px;">Selected Student Evaluations </a>
+
+---
+
+### Teaching Interests
+
+I am eager to teach various courses in applied and theoretical econometrics and microeconomics to undergraduate and graduate students. Specific courses I am interested in teaching include:
+
+* Econometrics (Applied and Theoretical)
+* Applied Microeconomics
+* Research Methods / Quantitative Methods for Social Scientists
+* Introductory and Intermediate Microeconomics
+* Health Economics and Policy
+
+---
+
+### Teaching Awards
+
+I was honored to receive the Excellence in Teaching Award from the Department of Economics at the University of California, Santa Cruz. This award is granted to graduate students who demonstrate exceptional teaching performance and receive outstanding evaluations.
 
 ---
 
