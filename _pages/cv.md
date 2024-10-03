@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-[Download my CV here](http://hamidhabibi.com/files/CV_Academic.pdf)
+<a href="http://hamidhabibi.com/files/CV_Academic.pdf" style="background-color: blue; color: white; padding: 10px 15px; text-decoration: none; border-radius: 5px;">Download CV</a>
