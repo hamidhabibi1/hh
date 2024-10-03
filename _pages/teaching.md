@@ -14,7 +14,7 @@ author_profile: true
 
 I strongly believe teaching should inspire curiosity and critical thinking, not just transfer knowledge. I aim to create a dynamic environment where students actively engage with economic concepts through lectures, discussions, and practical applications. Grounded in the Teacher-Scholar Model, my teaching integrates research to foster continuous learning and innovation. Economics is inherently abstract, so simplifying complex issues is vital for effective teaching. I bring passion to the subject by posing relevant questions and incorporating real-world scenarios that resonate with students’ experiences. This not only deepens engagement but also improves learning outcomes by helping students connect theory to practice and develop critical analytical skills.
 
-<p style="margin-top: 20px;">
+<p style="margin-top: 40px;">
   <a href="http://hamidhabibi.com/files/Job_Market_Paper.pdf" style="background-color: blue; color: white; padding: 10px 15px; text-decoration: none; border-radius: 5px;">Download Teaching Statement</a>
 </p>
 
@@ -27,6 +27,9 @@ I strongly believe teaching should inspire curiosity and critical thinking, not 
 ---
 
 ## Primary Instructor
+
+<p style="margin-top: 20px;">
+</p>
 
 **Econ 104: Is there Truth in Numbers? The Role of Statistics in Economics (Causal Inference)**
 
@@ -52,9 +55,19 @@ Spring 2024, Summer 2023, and Summer 2022
 
 ## Teaching Assistant
 
-During my academic career, I served as a teaching assistant for various courses. 
+Throughout my academic career, I had the opportunity to serve as a teaching assistant for a diverse range of courses. A brief selection of these courses includes the following:
 
-<a href="https://dx.doi.org/10.2139/ssrn.3800592" style="background-color: blue; color: white; padding: 10px 15px; text-decoration: none; border-radius: 5px;">Selected Student Evaluations </a>
+* Applied Microeconomics
+* Introductory and Intermediate Microeconomics
+* Applied Econometrics
+* Security Markets and Financial Institutions
+* Economic Rhetrocic
+* Advanced Real Analysis
+
+<p style="margin-top: 40px;">
+  <a href="https://dx.doi.org/10.2139/ssrn.3800592" style="background-color: blue; color: white; padding: 10px 15px; text-decoration: none; border-radius: 5px;">Selected Student Evaluations </a>
+</p>
+
 
 ---
 
