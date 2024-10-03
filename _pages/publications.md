@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-## Job Market Paper
+## <span style="color:blue;">Job Market Paper> </span>
 
 ### Curbing Pharma Influence: The Effect of Marketing Restrictions on Physicians' Prescribing Behavior and Healthcare Expenditure
 
