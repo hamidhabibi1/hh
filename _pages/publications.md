@@ -5,9 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-# <p style="text-align: center;">
-  <strong>**Job Market Paper**</strong>
-</p>
+# <p style="text-align: center;"><strong>Job Market Paper</strong></p>
 
 ---
 
@@ -25,17 +23,16 @@ The impact of direct-to-physician marketing and its regulations on physicians' p
 
 ---
 
-# <p style="text-align: center;">
-  <strong>**Publications**</strong>
-</p>
+# <p style="text-align: center;"><strong>Publications</strong></p>
 
 ---
 
 ## New Jersey’s Policy on Pharma Promotions: Increasing Use of Generics and Curbing Prescription Drug Spending.    
 *Revise and Resubmit, JAMA Internal Medicine*.
 
-## Quantifying Specific and Systemic Factors in the Black-WhiteWealth Gap in the United States.  
+## Quantifying Specific and Systemic Factors in the Black-WhiteWealth Gap in the United States  
 *with Rongchen Liu, Anirban Sanyal, Nirvikar Singh, and Gonzalo Martin Respighi Grasso*  
+
 *Revise and Resubmit, Journal of Race, Economics and Policy*.
 
  <a href="https://dx.doi.org/10.2139/ssrn.3800592" style="background-color: blue; color: white; padding: 10px 15px; text-decoration: none; border-radius: 5px;">Link to Paper</a>
@@ -43,23 +40,27 @@ The impact of direct-to-physician marketing and its regulations on physicians' p
 
 ## An equity-minded multi-dimensional framework for exploring the dynamics of sense of belonging in an introductory CS course  
 *with Narges Norouzi, Carmen Robinson, and Anna Sher*  
-*Proceedings of the 2023 Conference on Innovation and Technology in Computer Science Education, June 2023. 
+
+Proceedings of the 2023 Conference on Innovation and Technology in Computer Science Education, June 2023. 
 
  <a href="https://doi.org/10.1145/3587102.3588780" style="background-color: blue; color: white; padding: 10px 15px; text-decoration: none; border-radius: 5px;">Link to Paper</a>
 
 
 ## Return and Volatility Spillovers across Western and MENA Countries.  
 *with Hassan Mohammadi*  
-*The North American Journal of Economics and Finance, January 2022.
+
+The North American Journal of Economics and Finance, January 2022.
 
  <a href="https://doi.org/10.1016/j.najef.2022.101642" style="background-color: blue; color: white; padding: 10px 15px; text-decoration: none; border-radius: 5px;">Link to Paper</a>
 
 ## F-Derangements and Decomposing Bipartite Graphs Into Paths.  
 *with Michael Plantholt and Ben Mussell*  
-*The Art of Discrete and Applied Mathematics, April 2024.
+
+The Art of Discrete and Applied Mathematics, April 2024.
 
  <a href="https://doi.org/10.26493/2590-9770.1576.a47" style="background-color: blue; color: white; padding: 10px 15px; text-decoration: none; border-radius: 5px;">Link to Paper</a>
 
+---
 
 # **Research in Progress**
 
