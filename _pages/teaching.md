@@ -14,7 +14,9 @@ author_profile: true
 
 I strongly believe teaching should inspire curiosity and critical thinking, not just transfer knowledge. I aim to create a dynamic environment where students actively engage with economic concepts through a blend of lectures, discussions and practical applications. Grounded in the Teacher-Scholar Model, my teaching integrates research to foster continuous learning and innovation. Economics is inherently abstract, so simplifying complex issues is vital for effective teaching. I bring passion to the subject by posing relevant questions and incorporating real-world scenarios that resonate with students’ experiences. This not only deepens engagement but also improves learning outcomes by helping students connect theory to practice and develop critical analytical skills.
 
-<a href="https://dx.doi.org/10.2139/ssrn.3800592" style="background-color: blue; color: white; padding: 10px 15px; text-decoration: none; border-radius: 5px;">Download Teaching Statement</a>
+<p style="margin-top: 20px;">
+  <a href="http://hamidhabibi.com/files/Job_Market_Paper.pdf" style="background-color: blue; color: white; padding: 10px 15px; text-decoration: none; border-radius: 5px;">Download Teaching Statement</a>
+</p>
 
 ---
 
@@ -39,10 +41,13 @@ Spring 2024, Summer 2023, and Summer 2022
 
 ## Syllabus and Student Evaluations
 
- <a href="https://dx.doi.org/10.2139/ssrn.3800592" style="background-color: blue; color: white; padding: 10px 15px; text-decoration: none; border-radius: 5px;">Course Syllabus </a>  
+<p style="margin-top: 20px;">
+  <a href="http://hamidhabibi.com/files/Job_Market_Paper.pdf" style="background-color: blue; color: white; padding: 10px 15px; text-decoration: none; border-radius: 5px;">Course Syllabus</a>
+</p>
  
- 
- <a href="https://dx.doi.org/10.2139/ssrn.3800592" style="background-color: blue; color: white; padding: 10px 15px; text-decoration: none; border-radius: 5px;">Student Evaluations </a>
+<p style="margin-top: 20px;">
+  <a href="http://hamidhabibi.com/files/Job_Market_Paper.pdf" style="background-color: blue; color: white; padding: 10px 15px; text-decoration: none; border-radius: 5px;">Student Evaluations</a>
+</p>
 
 ---
 
@@ -54,7 +59,10 @@ During my academic career, I served as a teaching assistant for various courses.
 
 ---
 
-### Teaching Interests
+<div style="text-align: center;">
+  <h1><strong>Teaching Interests</strong></h1>
+</div>
+---
 
 I am eager to teach various courses in applied and theoretical econometrics and microeconomics to undergraduate and graduate students. Specific courses I am interested in teaching include:
 
@@ -66,7 +74,11 @@ I am eager to teach various courses in applied and theoretical econometrics and 
 
 ---
 
-### Teaching Awards
+<div style="text-align: center;">
+  <h1><strong>Teaching Awards</strong></h1>
+</div>
+
+---
 
 I was honored to receive the Excellence in Teaching Award from the Department of Economics at the University of California, Santa Cruz. This award is granted to graduate students who demonstrate exceptional teaching performance and receive outstanding evaluations.
 
