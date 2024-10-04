@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 &nbsp;  
-&nbsp; 
+
 
 I am a Ph.D. candidate in Applied Microeconomics at the University of California, Santa Cruz. My research focuses on applying advanced causal inference methodologies to analyze large datasets, addressing key challenges in health economics and policy. Currently, I am examining the causal effects of government and state interventions on physicians' prescribing behaviors, healthcare expenditures, and outcomes such as morbidity and mortality among the elderly.
 
