@@ -39,7 +39,7 @@ The impact of direct-to-physician marketing and its regulations on physicians' p
 
 *Revise and Resubmit, Journal of Race, Economics and Policy*
 
- <a href="https://dx.doi.org/10.2139/ssrn.3800592" style="background-color: blue; color: white; padding: 10px 15px; text-decoration: none; border-radius: 5px;">Link to Paper</a>
+ <a href="https://dx.doi.org/10.2139/ssrn.3800592" style="background-color: darkblue; color: white; padding: 10px 15px; text-decoration: none; border-radius: 5px;">Link to Paper</a>
 
 
 ## An equity-minded multi-dimensional framework for exploring the dynamics of sense of belonging in an introductory CS course  
@@ -47,7 +47,7 @@ The impact of direct-to-physician marketing and its regulations on physicians' p
 
 Proceedings of the 2023 Conference on Innovation and Technology in Computer Science Education, June 2023 
 
- <a href="https://doi.org/10.1145/3587102.3588780" style="background-color: blue; color: white; padding: 10px 15px; text-decoration: none; border-radius: 5px;">Link to Paper</a>
+ <a href="https://doi.org/10.1145/3587102.3588780" style="background-color: darkblue; color: white; padding: 10px 15px; text-decoration: none; border-radius: 5px;">Link to Paper</a>
 
 
 ## Return and Volatility Spillovers across Western and MENA Countries  
@@ -55,14 +55,14 @@ Proceedings of the 2023 Conference on Innovation and Technology in Computer Scie
 
 The North American Journal of Economics and Finance, January 2022
 
- <a href="https://doi.org/10.1016/j.najef.2022.101642" style="background-color: blue; color: white; padding: 10px 15px; text-decoration: none; border-radius: 5px;">Link to Paper</a>
+ <a href="https://doi.org/10.1016/j.najef.2022.101642" style="background-color: darkblue; color: white; padding: 10px 15px; text-decoration: none; border-radius: 5px;">Link to Paper</a>
 
 ## F-Derangements and Decomposing Bipartite Graphs Into Paths  
 *with Michael Plantholt and Ben Mussell*  
 
 The Art of Discrete and Applied Mathematics, April 2024
 
- <a href="https://doi.org/10.26493/2590-9770.1576.a47" style="background-color: blue; color: white; padding: 10px 15px; text-decoration: none; border-radius: 5px;">Link to Paper</a>
+ <a href="https://doi.org/10.26493/2590-9770.1576.a47" style="background-color: darkblue; color: white; padding: 10px 15px; text-decoration: none; border-radius: 5px;">Link to Paper</a>
 
 ---
 
