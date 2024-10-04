@@ -41,8 +41,8 @@ Spring 2024, Summer 2023, and Summer 2022
 
 
 <div style="margin-top: 50px;">
-  <a href="http://hamidhabibi.com/files/Econ 104 Syllabus Spring 2024.pdf" style="background-color: blue; color: white; padding: 10px 15px; text-decoration: none; border-radius: 5px; margin-right: 20px;">Course Syllabus</a>
-  <a href="http://hamidhabibi.com/files/Job_Market_Paper.pdf" style="background-color: blue; color: white; padding: 10px 15px; text-decoration: none; border-radius: 5px;">Student Evaluations</a>
+  <a href="http://hamidhabibi.com/files/Econ 104 Syllabus Spring 2024.pdf" style="background-color: darkblue; color: white; padding: 10px 15px; text-decoration: none; border-radius: 5px; margin-right: 20px;">Course Syllabus</a>
+  <a href="http://hamidhabibi.com/files/Job_Market_Paper.pdf" style="background-color: darkblue; color: white; padding: 10px 15px; text-decoration: none; border-radius: 5px;">Student Evaluations</a>
 </div>
 
 
@@ -61,7 +61,7 @@ Throughout my academic career, I had the opportunity to serve as a teaching assi
 * Advanced Real Analysis
 
 <p style="margin-top: 40px;">
-  <a href="http://hamidhabibi.com/files/selected_TA.pdf" style="background-color: blue; color: white; padding: 10px 15px; text-decoration: none; border-radius: 5px;">Selected Student Evaluations </a>
+  <a href="http://hamidhabibi.com/files/selected_TA.pdf" style="background-color: darkblue; color: white; padding: 10px 15px; text-decoration: none; border-radius: 5px;">Selected Student Evaluations </a>
 </p>
 
 
