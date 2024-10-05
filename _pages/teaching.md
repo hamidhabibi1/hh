@@ -74,10 +74,10 @@ Throughout my academic career, I had the opportunity to serve as a teaching assi
 
 I am eager to teach various courses in applied and theoretical econometrics and microeconomics to undergraduate and graduate students. Specific courses I am interested in teaching include:
 
+* Microeconomics (Applied and Theoretical)
 * Econometrics (Applied and Theoretical)
-* Applied Microeconomics
 * Research Methods / Quantitative Methods for Social Scientists
-* Introductory and Intermediate Microeconomics
+* Public Economics
 * Health Economics and Policy
 
 ---
