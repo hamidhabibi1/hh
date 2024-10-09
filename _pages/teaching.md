@@ -33,7 +33,7 @@ University of California, Santa Cruz
 
 ## Course Description
 
-This is the main upper-division course in Causal Inference. In this course, students develop the art of empirical analysis where they use real economic data in an interactive way. I taught experimental and quasi-experimental methods, including Randomized Control Trials, Instrumental Variables, Propensity Score Matching, Difference-in-Differences, and Regression Discontinuity design. In addition, I provided extensive training for the students in writing codes and translating their results into 2 full-length academic manuscripts.  
+This is the main upper-division course in Applied Microeconomics. In this course, students develop the art of empirical analysis where they use real economic data in an interactive way. I taught experimental and quasi-experimental methods, including Randomized Control Trials, Instrumental Variables, Propensity Score Matching, Difference-in-Differences, and Regression Discontinuity design. In addition, I provided extensive training for the students in writing codes and translating their results into 2 full-length academic manuscripts.  
 
 ## Quarters Taught 
 
