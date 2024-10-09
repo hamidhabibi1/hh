@@ -12,7 +12,7 @@ author_profile: true
 
 ---
 
-I strongly believe teaching should inspire curiosity and critical thinking, not just transfer knowledge. I aim to create a dynamic environment where students actively engage with economic concepts through lectures, discussions, and practical applications. Grounded in the Teacher-Scholar Model, my teaching integrates research to foster continuous learning and innovation. Economics is inherently abstract, so simplifying complex issues is vital for effective teaching. I bring passion to the subject by posing relevant questions and incorporating real-world scenarios that resonate with students’ experiences. This not only deepens engagement but also improves learning outcomes by helping students connect theory to practice and develop critical analytical skills.
+I strongly believe that teaching should inspire curiosity and critical thinking, rather than simply transfer knowledge. I aim to create a dynamic, student-centered environment where students actively engage with economic concepts through a blend of lectures, discussions, and practical applications. My teaching follows the Teacher-Scholar Model, which combines teaching and research in a way that enhances both. Research brings fresh insights into the classroom, making teaching more relevant and current, while teaching stimulates new ideas and questions that can lead to further research. Economics is inherently abstract, so simplifying complex issues is vital for effective teaching. I bring passion to the subject by posing relevant questions and incorporating real-world scenarios that resonate with students’ experiences. This not only deepens engagement but also improves learning outcomes by helping students connect theory to practice and develop critical analytical skills.
 
 ---
 
@@ -72,13 +72,13 @@ Throughout my academic career, I had the opportunity to serve as a teaching assi
 </div>
 ---
 
-I am eager to teach various courses in applied and theoretical econometrics and microeconomics to undergraduate and graduate students. Specific courses I am interested in teaching include:
+I am interested in teaching the following courses at the undergraduate and graduate levels:
 
-* Microeconomics (Applied and Theoretical)
-* Econometrics (Applied and Theoretical)
-* Research Methods / Quantitative Methods for Social Scientists
-* Public Economics
+* Microeconomics (Introductory and Intermediate)
+* Econometrics (Introductory and Intermediate) 
+* Research Methods / Quantitative Methods (Applied Econometrics)
 * Health Economics and Policy
+* Public Economics
 
 ---
 
