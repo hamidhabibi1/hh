@@ -76,7 +76,7 @@ I am interested in teaching the following courses at the undergraduate and gradu
 
 * Microeconomics (Introductory and Intermediate)
 * Econometrics (Introductory and Intermediate) 
-* Research Methods / Quantitative Methods (Applied Econometrics)
+* Research Methods / Quantitative Methods
 * Health Economics and Policy
 * Public Economics
 
