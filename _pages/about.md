@@ -19,8 +19,8 @@ If you have any questions or comments, please contact me at [hhabibi1@ucsc.edu](
 
 ## References
 
-Carlos Dobkin (Dissertation Advisor, UC Santa Cruz)
+* Carlos Dobkin (Dissertation Advisor, UC Santa Cruz)
 
-Laura Giuliano (UC Santa Cruz)
+* Laura Giuliano (UC Santa Cruz)
 
-George Bulman (UC Santa Cruz)
+* George Bulman (UC Santa Cruz)
