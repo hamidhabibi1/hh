@@ -66,7 +66,7 @@ Throughout my academic career, I had the opportunity to serve as a teaching assi
 
 ---
 
-I was honored to receive the Excellence in Teaching Award from the Department of Economics at the University of California, Santa Cruz. This award is granted to graduate students who demonstrate exceptional teaching performance and receive outstanding evaluations.
+My teaching efforts have been consistently praised, reflected in my overall evaluation rating of 92%. Moreover, I was honored to receive the Excellence in Teaching Award from the Department of Economics at the University of California, Santa Cruz. This award is granted to graduate students who demonstrate exceptional teaching performance and receive outstanding evaluations.
 
 <p style="margin-top: 40px;">
   <a href="http://hamidhabibi.com/files/teaching_evaluations_all.pdf" style="background-color: darkblue; color: white; padding: 10px 15px; text-decoration: none; border-radius: 5px;">Download Student Evaluations </a>
