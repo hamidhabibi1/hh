@@ -61,7 +61,7 @@ Throughout my academic career, I had the opportunity to serve as a teaching assi
 ---
 
 <div style="text-align: center;">
-  <h1><strong>Teaching Awards</strong></h1>
+  <h1><strong>Teaching Evaluations and Awards</strong></h1>
 </div>
 
 ---
