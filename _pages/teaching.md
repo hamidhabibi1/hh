@@ -45,7 +45,6 @@ Spring 2024, Summer 2023, and Summer 2022
 </div>
 
 
-
 ---
 
 ## Teaching Assistant
@@ -59,10 +58,19 @@ Throughout my academic career, I had the opportunity to serve as a teaching assi
 * Economic Rhetoric
 * Advanced Real Analysis
 
-<p style="margin-top: 40px;">
-  <a href="http://hamidhabibi.com/files/selected_TA.pdf" style="background-color: darkblue; color: white; padding: 10px 15px; text-decoration: none; border-radius: 5px;">Selected Student Evaluations </a>
-</p>
+---
 
+<div style="text-align: center;">
+  <h1><strong>Teaching Awards</strong></h1>
+</div>
+
+---
+
+I was honored to receive the Excellence in Teaching Award from the Department of Economics at the University of California, Santa Cruz. This award is granted to graduate students who demonstrate exceptional teaching performance and receive outstanding evaluations.
+
+<p style="margin-top: 40px;">
+  <a href="http://hamidhabibi.com/files/teaching_evaluations_all.pdf" style="background-color: darkblue; color: white; padding: 10px 15px; text-decoration: none; border-radius: 5px;">Download Student Evaluations </a>
+</p>
 
 ---
 
@@ -80,15 +88,4 @@ I am interested in teaching the following courses at the undergraduate and gradu
 * Public Economics
 
 ---
-
-<div style="text-align: center;">
-  <h1><strong>Teaching Awards</strong></h1>
-</div>
-
----
-
-I was honored to receive the Excellence in Teaching Award from the Department of Economics at the University of California, Santa Cruz. This award is granted to graduate students who demonstrate exceptional teaching performance and receive outstanding evaluations.
-
----
-
 
