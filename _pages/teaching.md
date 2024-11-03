@@ -79,7 +79,7 @@ My teaching efforts have been consistently praised, reflected in my overall eval
 </div>
 ---
 
-I am interested in teaching the following courses at the undergraduate and graduate levels:
+I am interested in teaching the following courses at the undergraduate and graduate levels with the flexibility to meet additional departmental needs.
 
 * Microeconomics (Introductory and Intermediate)
 * Econometrics (Introductory and Intermediate) 
