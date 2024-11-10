@@ -32,11 +32,11 @@ The impact of direct-to-physician marketing and its regulation on prescribing be
 ---
 
 ## Quantifying Specific and Systemic Factors in the Black-White Wealth Gap in the United States  
-*with Rongchen Liu, Anirban Sanyal, Nirvikar Singh, and Gonzalo Martin Respighi Grasso*  
+*with Rongchen Liu, Gonzalo Martin Respighi Grasso, Anirban Sanyal, and Nirvikar Singh*  
 
-*Forthcoming, Journal of Race, Economics and Policy*
+Journal of Race, Economics and Policy, November 2024
 
- <a href="https://dx.doi.org/10.2139/ssrn.3800592" style="background-color: darkblue; color: white; padding: 10px 15px; text-decoration: none; border-radius: 5px;">Link to Paper</a>
+ <a href="https://doi.org/10.1007/s41996-024-00160-4" style="background-color: darkblue; color: white; padding: 10px 15px; text-decoration: none; border-radius: 5px;">Link to Paper</a>
 
 
 ## An equity-minded multi-dimensional framework for exploring the dynamics of sense of belonging in an introductory CS course  
